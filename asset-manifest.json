@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kkb-mmmut.github.io/csb-808u8f/static/css/main.ab58e2fa.chunk.css",
+    "main.js": "https://kkb-mmmut.github.io/csb-808u8f/static/js/main.c818b6f5.chunk.js",
+    "main.js.map": "https://kkb-mmmut.github.io/csb-808u8f/static/js/main.c818b6f5.chunk.js.map",
+    "runtime-main.js": "https://kkb-mmmut.github.io/csb-808u8f/static/js/runtime-main.cd311ed6.js",
+    "runtime-main.js.map": "https://kkb-mmmut.github.io/csb-808u8f/static/js/runtime-main.cd311ed6.js.map",
+    "static/js/2.ded8645b.chunk.js": "https://kkb-mmmut.github.io/csb-808u8f/static/js/2.ded8645b.chunk.js",
+    "static/js/2.ded8645b.chunk.js.map": "https://kkb-mmmut.github.io/csb-808u8f/static/js/2.ded8645b.chunk.js.map",
+    "index.html": "https://kkb-mmmut.github.io/csb-808u8f/index.html",
+    "static/css/main.ab58e2fa.chunk.css.map": "https://kkb-mmmut.github.io/csb-808u8f/static/css/main.ab58e2fa.chunk.css.map",
+    "static/js/2.ded8645b.chunk.js.LICENSE.txt": "https://kkb-mmmut.github.io/csb-808u8f/static/js/2.ded8645b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd311ed6.js",
+    "static/js/2.ded8645b.chunk.js",
+    "static/css/main.ab58e2fa.chunk.css",
+    "static/js/main.c818b6f5.chunk.js"
+  ]
+}
